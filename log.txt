@@ -1,0 +1,17 @@
+commit afbf646b45b8a9cfb2ddae4b69dcc5b3df45cfe5
+Author: luis90009 <lfrtester@gmx.com>
+Date:   Tue Mar 17 12:24:23 2020 +0100
+
+    Add gitignore
+
+commit 7970c0110b9a3a126bb8fefcdcf872fadd71201f
+Author: luis90009 <lfrtester@gmx.com>
+Date:   Tue Mar 17 12:14:50 2020 +0100
+
+    Added two files
+
+commit 38faee69cfe9364e2658508059959f7c731cd22a
+Author: luis90009 <lfrtester@gmx.com>
+Date:   Tue Mar 17 12:07:11 2020 +0100
+
+    Added readme.txt
