@@ -1,4 +1,4 @@
-#This is a large heading
+# This is a large heading
 
 ## This is a smalller heading
 
@@ -24,4 +24,5 @@ of code
 ```
 
 Here is how you make [a link](https://google.es).
+
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
